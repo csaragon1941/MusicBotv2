@@ -1,3 +1,6 @@
+//Help Command
+//When user enters this command into Discord, it shows a prompt on how to work it. 
+
 const { EmbedBuilder } = require('discord.js');
 
 module.exports = {
