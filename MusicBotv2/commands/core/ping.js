@@ -1,3 +1,6 @@
+//Ping Command
+//When user inputs ping, the bot should respond back Pong.
+
 const ms = require('ms');
 
 module.exports = {
