@@ -1,9 +1,9 @@
 module.exports = {
     app: {
-        token: 'xxxxxxx',
+        token: 'xxxxxxx', //Enter Token from your Discord Developers Portal
         playing: 'C, R, B',
         global: true,
-        guild: 'xxxxxxx'
+        guild: 'xxxxxxx'    //Enter the Guild ID found within the Discord Server
     },
 
     opt: {
