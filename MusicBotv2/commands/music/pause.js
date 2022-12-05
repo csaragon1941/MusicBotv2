@@ -1,6 +1,9 @@
+// Pause Command
+//When user enters '/pause' in command prompt, it pauses the music that it is currently playing.
+
 module.exports = {
-    name: 'pause',
-    description: 'pause the track',
+    name: 'pause', //name of the command
+    description: 'pause the track', //what it does
     voiceChannel: true,
 
     execute({ inter }) {
