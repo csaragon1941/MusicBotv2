@@ -1,3 +1,6 @@
+//Music Bot v2
+//Main.js encapsulates all the commands and connectivity needed for the Discord Bot
+
 const { Player } = require('discord-player');
 const { Client, GatewayIntentBits } = require('discord.js'); //Important to declare because in Discord v14 needs it to connect into the Discord Api
 
